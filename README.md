@@ -20,7 +20,6 @@ sougou/
 ├── 📄 requirements.txt             # Python依赖包
 ├── 📄 使用说明.md                  # 中文使用说明
 ├── 📄 防反爬系统使用说明.md        # 防反爬系统详细说明
-├── 📄 MinIO_Migration_Guide.md     # MinIO存储迁移指南
 │
 ├── 🐍 核心模块
 ├── 📄 sougou_crawl.py             # 主爬虫模块
@@ -362,3 +361,4 @@ curl http://localhost:5001/health
 ---
 
 **⚠️ 免责声明**: 本项目仅供学习和研究使用，请遵守相关网站的使用条款和robots.txt规则，不要对目标网站造成过大压力。
+
