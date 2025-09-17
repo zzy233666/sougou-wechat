@@ -99,10 +99,6 @@ python fastapi_stream.py
 python sougou_crawl.py
 ```
 
-#### 方式3: 优化爬取脚本
-```bash
-python optimized_crawl.py
-```
 
 ## 🔧 核心功能
 
@@ -360,5 +356,6 @@ curl http://localhost:5001/health
 ---
 
 **⚠️ 免责声明**: 本项目仅供学习和研究使用，请遵守相关网站的使用条款和robots.txt规则，不要对目标网站造成过大压力。
+
 
 
