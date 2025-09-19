@@ -1,0 +1,43 @@
+# Web Framework
+fastapi>=0.104.1
+uvicorn[standard]>=0.24.0
+
+# HTTP Requests & Web Scraping
+requests>=2.28.0
+beautifulsoup4>=4.11.1
+
+# Object Storage
+minio>=7.1.0
+
+# Task Scheduling
+schedule>=1.1.0
+
+# Environment & Configuration
+python-dotenv>=0.21.0
+
+# AI/LLM Integration
+langchain>=0.1.0
+langchain-community>=0.0.20
+openai>=1.0.0
+
+# Data Validation & API Models
+pydantic>=2.0.0
+
+# Built-in modules (no installation needed)
+# - json (built-in)
+# - os (built-in) 
+# - re (built-in)
+# - time (built-in)
+# - datetime (built-in)
+# - logging (built-in)
+# - threading (built-in)
+# - sqlite3 (built-in)
+# - hashlib (built-in)
+# - io (built-in)
+# - urllib.parse (built-in)
+# - pathlib (built-in)
+# - uuid (built-in)
+# - concurrent.futures (built-in)
+# - dataclasses (built-in, Python 3.7+)
+# - typing (built-in, Python 3.5+)
+# - asyncio (built-in)
